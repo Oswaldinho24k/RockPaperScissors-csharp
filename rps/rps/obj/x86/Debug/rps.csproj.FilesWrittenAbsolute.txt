@@ -1,0 +1,5 @@
+/home/oswaldinho/Documentos/fixter/csharp/rps/rps/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/oswaldinho/Documentos/fixter/csharp/rps/rps/bin/Debug/rps.exe.mdb
+/home/oswaldinho/Documentos/fixter/csharp/rps/rps/bin/Debug/rps.exe
+/home/oswaldinho/Documentos/fixter/csharp/rps/rps/obj/x86/Debug/rps.exe
+/home/oswaldinho/Documentos/fixter/csharp/rps/rps/obj/x86/Debug/rps.exe.mdb
